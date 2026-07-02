@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=GNOME (†升天† 定制版)
+Comment=This session logs you into GNOME after Choutian transformation
+Exec=/etc/gdm/choutian-shell-wrapper.sh
+Type=Application
+DesktopNames=GNOME
+X-GDM-CanRun=IfRunning

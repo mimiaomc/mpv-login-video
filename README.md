@@ -13,7 +13,7 @@ sudo cp video-gnome.desktop /usr/local/share/wayland-sessions/
 sudo cp shell-wrapper.sh /etc/gdm/
 ```
 
-```welcome.mp4``` 也一样，放在 ```/etc/gdm/```，这里示例视频使用的是 16:10 比例
+```welcome.mp4``` 也一样，放在 ```/etc/gdm/```，这里示例视频使用的是 16:10 比例，```output.mp4``` 使用原游戏比例。
 
 ```
 sudo cp welcome.mp4 /etc/gdm/

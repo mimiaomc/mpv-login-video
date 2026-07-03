@@ -1,5 +1,7 @@
 # mpv-login-video
 
+A boot animation that plays using mpv after login.
+
 ## 简体中文
 ```video-gnome.desktop``` 这个文件应该放在 ```/usr/local/share/wayland-sessions/```；
 
